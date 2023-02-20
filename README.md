@@ -16,7 +16,7 @@
    <tr><td>송지호</td><td><a href="https://github.com/SongJiho1998">@SongJiho1998</a></td></tr>
    <tr><td>황종수</td><td><a href="https://github.com/prodaniel93">@prodaniel93</a></td></tr>
    <tr><td>이범석</td><td><a href="https://github.com/qjatjr0513">@qjatjr0513</a></td></tr>
-   <tr><td>조성우</td><td>@조성우/td></tr>
+   <tr><td>조성우</td><td>@조성우</td></tr>
    </table>
    
    <br><br>
